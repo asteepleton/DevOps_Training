@@ -1,1 +1,3 @@
+
+hello this is testing the reset
 Test file for git download 
